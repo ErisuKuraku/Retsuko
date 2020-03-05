@@ -1,0 +1,92 @@
+C:\Users\ellis\Documents\Visual Studio 2017\Projects\Retsuko\Wally\bin\Release\Retsuko.exe.config
+C:\Users\ellis\Documents\Visual Studio 2017\Projects\Retsuko\Wally\bin\Release\Retsuko.exe.manifest
+C:\Users\ellis\Documents\Visual Studio 2017\Projects\Retsuko\Wally\bin\Release\Retsuko.application
+C:\Users\ellis\Documents\Visual Studio 2017\Projects\Retsuko\Wally\bin\Release\Retsuko.exe
+C:\Users\ellis\Documents\Visual Studio 2017\Projects\Retsuko\Wally\bin\Release\Retsuko.pdb
+C:\Users\ellis\Documents\Visual Studio 2017\Projects\Retsuko\Wally\bin\Release\Retsuko.xml
+C:\Users\ellis\Documents\Visual Studio 2017\Projects\Retsuko\Wally\obj\Release\Retsuko.Form1.resources
+C:\Users\ellis\Documents\Visual Studio 2017\Projects\Retsuko\Wally\obj\Release\Retsuko.Form2.resources
+C:\Users\ellis\Documents\Visual Studio 2017\Projects\Retsuko\Wally\obj\Release\Retsuko.Resources.resources
+C:\Users\ellis\Documents\Visual Studio 2017\Projects\Retsuko\Wally\obj\Release\Wally.vbproj.GenerateResource.cache
+C:\Users\ellis\Documents\Visual Studio 2017\Projects\Retsuko\Wally\obj\Release\Wally.vbproj.CoreCompileInputs.cache
+C:\Users\ellis\Documents\Visual Studio 2017\Projects\Retsuko\Wally\obj\Release\Retsuko.TrustInfo.xml
+C:\Users\ellis\Documents\Visual Studio 2017\Projects\Retsuko\Wally\obj\Release\Retsuko.exe.manifest
+C:\Users\ellis\Documents\Visual Studio 2017\Projects\Retsuko\Wally\obj\Release\Retsuko.application
+C:\Users\ellis\Documents\Visual Studio 2017\Projects\Retsuko\Wally\obj\Release\Retsuko.exe
+C:\Users\ellis\Documents\Visual Studio 2017\Projects\Retsuko\Wally\obj\Release\Retsuko.xml
+C:\Users\ellis\Documents\Visual Studio 2017\Projects\Retsuko\Wally\obj\Release\Retsuko.pdb
+\\birfile01\studentdata$\eclarke10\Desktop\HotSwap\Retsuko\Wally\bin\Release\Retsuko.exe.config
+\\birfile01\studentdata$\eclarke10\Desktop\HotSwap\Retsuko\Wally\obj\Release\Retsuko.exe
+\\birfile01\studentdata$\eclarke10\Desktop\HotSwap\Retsuko\Wally\obj\Release\Retsuko.xml
+\\birfile01\studentdata$\eclarke10\Desktop\HotSwap\Retsuko\Wally\obj\Release\Retsuko.pdb
+\\birfile01\studentdata$\eclarke10\Desktop\HotSwap\Retsuko\Wally\bin\Release\Retsuko.exe.manifest
+\\birfile01\studentdata$\eclarke10\Desktop\HotSwap\Retsuko\Wally\bin\Release\Retsuko.application
+\\birfile01\studentdata$\eclarke10\Desktop\HotSwap\Retsuko\Wally\bin\Release\Retsuko.exe
+\\birfile01\studentdata$\eclarke10\Desktop\HotSwap\Retsuko\Wally\bin\Release\Retsuko.pdb
+\\birfile01\studentdata$\eclarke10\Desktop\HotSwap\Retsuko\Wally\bin\Release\Retsuko.xml
+\\birfile01\studentdata$\eclarke10\Desktop\HotSwap\Retsuko\Wally\obj\Release\Retsuko.Form1.resources
+\\birfile01\studentdata$\eclarke10\Desktop\HotSwap\Retsuko\Wally\obj\Release\Retsuko.Form2.resources
+\\birfile01\studentdata$\eclarke10\Desktop\HotSwap\Retsuko\Wally\obj\Release\Retsuko.Resources.resources
+\\birfile01\studentdata$\eclarke10\Desktop\HotSwap\Retsuko\Wally\obj\Release\Wally.vbproj.GenerateResource.Cache
+\\birfile01\studentdata$\eclarke10\Desktop\HotSwap\Retsuko\Wally\obj\Release\Retsuko.TrustInfo.xml
+\\birfile01\studentdata$\eclarke10\Desktop\HotSwap\Retsuko\Wally\obj\Release\Retsuko.exe.manifest
+\\birfile01\studentdata$\eclarke10\Desktop\HotSwap\Retsuko\Wally\obj\Release\Retsuko.application
+C:\Users\ellis\Desktop\Retsuko\Wally\bin\Release\Retsuko.exe.config
+C:\Users\ellis\Desktop\Retsuko\Wally\bin\Release\Retsuko.exe.manifest
+C:\Users\ellis\Desktop\Retsuko\Wally\bin\Release\Retsuko.application
+C:\Users\ellis\Desktop\Retsuko\Wally\bin\Release\Retsuko.exe
+C:\Users\ellis\Desktop\Retsuko\Wally\bin\Release\Retsuko.pdb
+C:\Users\ellis\Desktop\Retsuko\Wally\bin\Release\Retsuko.xml
+C:\Users\ellis\Desktop\Retsuko\Wally\obj\Release\Wally.vbprojAssemblyReference.cache
+C:\Users\ellis\Desktop\Retsuko\Wally\obj\Release\Retsuko.Form1.resources
+C:\Users\ellis\Desktop\Retsuko\Wally\obj\Release\Retsuko.Form2.resources
+C:\Users\ellis\Desktop\Retsuko\Wally\obj\Release\Retsuko.Resources.resources
+C:\Users\ellis\Desktop\Retsuko\Wally\obj\Release\Wally.vbproj.GenerateResource.cache
+C:\Users\ellis\Desktop\Retsuko\Wally\obj\Release\Wally.vbproj.CoreCompileInputs.cache
+C:\Users\ellis\Desktop\Retsuko\Wally\obj\Release\Retsuko.TrustInfo.xml
+C:\Users\ellis\Desktop\Retsuko\Wally\obj\Release\Retsuko.exe.manifest
+C:\Users\ellis\Desktop\Retsuko\Wally\obj\Release\Retsuko.application
+C:\Users\ellis\Desktop\Retsuko\Wally\obj\Release\Retsuko.exe
+C:\Users\ellis\Desktop\Retsuko\Wally\obj\Release\Retsuko.xml
+C:\Users\ellis\Desktop\Retsuko\Wally\obj\Release\Retsuko.pdb
+\\birfile01\studentdata$\eclarke10\Desktop\Retsuko\Wally\bin\Release\Retsuko.exe.config
+\\birfile01\studentdata$\eclarke10\Desktop\Retsuko\Wally\obj\Release\Retsuko.exe
+\\birfile01\studentdata$\eclarke10\Desktop\Retsuko\Wally\obj\Release\Retsuko.xml
+\\birfile01\studentdata$\eclarke10\Desktop\Retsuko\Wally\obj\Release\Retsuko.pdb
+\\birfile01\studentdata$\eclarke10\Desktop\Retsuko\Wally\bin\Release\Retsuko.exe.manifest
+\\birfile01\studentdata$\eclarke10\Desktop\Retsuko\Wally\bin\Release\Retsuko.application
+\\birfile01\studentdata$\eclarke10\Desktop\Retsuko\Wally\bin\Release\Retsuko.exe
+\\birfile01\studentdata$\eclarke10\Desktop\Retsuko\Wally\bin\Release\Retsuko.pdb
+\\birfile01\studentdata$\eclarke10\Desktop\Retsuko\Wally\bin\Release\Retsuko.xml
+\\birfile01\studentdata$\eclarke10\Desktop\Retsuko\Wally\obj\Release\Retsuko.Form1.resources
+\\birfile01\studentdata$\eclarke10\Desktop\Retsuko\Wally\obj\Release\Retsuko.Form2.resources
+\\birfile01\studentdata$\eclarke10\Desktop\Retsuko\Wally\obj\Release\Retsuko.Resources.resources
+\\birfile01\studentdata$\eclarke10\Desktop\Retsuko\Wally\obj\Release\Wally.vbproj.GenerateResource.Cache
+\\birfile01\studentdata$\eclarke10\Desktop\Retsuko\Wally\obj\Release\Retsuko.TrustInfo.xml
+\\birfile01\studentdata$\eclarke10\Desktop\Retsuko\Wally\obj\Release\Retsuko.exe.manifest
+\\birfile01\studentdata$\eclarke10\Desktop\Retsuko\Wally\obj\Release\Retsuko.application
+\\birfile01\studentdata$\eclarke10\Desktop\Retsuko\Wally\obj\Release\Retsuko.Splash.resources
+C:\Users\ellis\Desktop\Retsuko\Wally\obj\Release\Retsuko.Splash.resources
+C:\Users\ellis\Desktop\Retsuko\Wally\bin\Release\MaterialSkin.dll
+C:\Users\ellis\Desktop\Retsuko\Wally\obj\Release\Wally.vbproj.CopyComplete
+C:\Users\ellis\Desktop\Other\Retsuko\Wally\bin\Release\Retsuko.exe.config
+C:\Users\ellis\Desktop\Other\Retsuko\Wally\bin\Release\Retsuko.exe.manifest
+C:\Users\ellis\Desktop\Other\Retsuko\Wally\bin\Release\Retsuko.application
+C:\Users\ellis\Desktop\Other\Retsuko\Wally\bin\Release\Retsuko.exe
+C:\Users\ellis\Desktop\Other\Retsuko\Wally\bin\Release\Retsuko.pdb
+C:\Users\ellis\Desktop\Other\Retsuko\Wally\bin\Release\Retsuko.xml
+C:\Users\ellis\Desktop\Other\Retsuko\Wally\bin\Release\MaterialSkin.dll
+C:\Users\ellis\Desktop\Other\Retsuko\Wally\obj\Release\Wally.vbprojAssemblyReference.cache
+C:\Users\ellis\Desktop\Other\Retsuko\Wally\obj\Release\Retsuko.Form1.resources
+C:\Users\ellis\Desktop\Other\Retsuko\Wally\obj\Release\Retsuko.Form2.resources
+C:\Users\ellis\Desktop\Other\Retsuko\Wally\obj\Release\Retsuko.Resources.resources
+C:\Users\ellis\Desktop\Other\Retsuko\Wally\obj\Release\Retsuko.Splash.resources
+C:\Users\ellis\Desktop\Other\Retsuko\Wally\obj\Release\Wally.vbproj.GenerateResource.cache
+C:\Users\ellis\Desktop\Other\Retsuko\Wally\obj\Release\Wally.vbproj.CoreCompileInputs.cache
+C:\Users\ellis\Desktop\Other\Retsuko\Wally\obj\Release\Retsuko.TrustInfo.xml
+C:\Users\ellis\Desktop\Other\Retsuko\Wally\obj\Release\Retsuko.exe.manifest
+C:\Users\ellis\Desktop\Other\Retsuko\Wally\obj\Release\Retsuko.application
+C:\Users\ellis\Desktop\Other\Retsuko\Wally\obj\Release\Wally.vbproj.CopyComplete
+C:\Users\ellis\Desktop\Other\Retsuko\Wally\obj\Release\Retsuko.exe
+C:\Users\ellis\Desktop\Other\Retsuko\Wally\obj\Release\Retsuko.xml
+C:\Users\ellis\Desktop\Other\Retsuko\Wally\obj\Release\Retsuko.pdb
