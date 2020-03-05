@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\birfile01\studentdata%24\eclarke10\Desktop\Retsuko\EXES\|C:\Users\ellis\Documents\Visual Studio 2017\Projects\Wally\|publish\|ftp://ftp.tomshome.tk/public_html/programs/Wally/</PublishUrlHistory>
+    <InstallUrlHistory>http://tomshome.tk/programs/Wally/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory>https://theelboboard.ml/error-pages/404|http://tomshome.tk/programs/Wally/Error</ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
